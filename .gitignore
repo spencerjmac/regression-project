@@ -1,0 +1,21 @@
+# Folders
+/.venv/
+/.quarto/
+/.posit/
+/output/*
+/private/*
+
+# Files
+**/*.quarto_ipynb
+**/*.quarto_ipynb_*
+*.pdf
+/code/src/*
+!/code/src/*.R
+!/code/src/*.py
+!/code/src/*.cpp
+!/code/src/*.stan
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
